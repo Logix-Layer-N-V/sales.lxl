@@ -273,7 +273,7 @@ export default function LogixLayerPage() {
             <Button variant="default" size="lg" className="text-lg px-8">
               Start 10-minuten audit call 
               <ArrowRight className="ml-2 w-5 h-5" />
-            </Button></>
+            </Button></a>
             <Button variant="outline" size="lg" className="text-lg px-8 bg-transparent">
               Plan 15-minuten demo
             </Button>
