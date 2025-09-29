@@ -269,10 +269,11 @@ export default function LogixLayerPage() {
             }
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="https://elevenlabs.io/app/talk-to?agent_id=agent_3301k6asmx4mftkanvkz6jawd96c" >
             <Button variant="default" size="lg" className="text-lg px-8">
-              Start 10-minuten audit call call 
+              Start 10-minuten audit call 
               <ArrowRight className="ml-2 w-5 h-5" />
-            </Button>
+            </Button></>
             <Button variant="outline" size="lg" className="text-lg px-8 bg-transparent">
               Plan 15-minuten demo
             </Button>
