@@ -19,7 +19,7 @@ export default function LogixLayerPage() {
           </div>
           <div className="flex items-center gap-2">
             <ThemeToggle />
-            <a href=""><Button variant="outline" size="sm">
+            <a href="https://logixlayer.com/"><Button variant="outline" size="sm">
             Contact 
             </Button></a>
           </div>
